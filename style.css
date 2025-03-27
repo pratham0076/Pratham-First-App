@@ -1269,7 +1269,7 @@ justify-content: space-evenly;
         /* height: 168px; */
         top: 128px;
         margin-left: 0px;
-        font-size: 98px;
+        font-size: 78px;
         font-weight: 700;
         line-height: 96px;
         color: rgba(5, 0, 56, 1);
@@ -1301,7 +1301,7 @@ justify-content: space-evenly;
         /* width: 137px; */
         height: 70px;
         font-weight: 700;
-        font-size: 66px;
+        font-size: 56px;
         line-height: 48px;
         color: rgba(5, 0, 56, 1);
     }
@@ -1425,9 +1425,10 @@ justify-content: space-evenly;
     .txt h2{
         width: 1080px;
         height: 112px;
-        font-size: 88px;
+        font-size: 78px;
         font-weight: 700;
         line-height: 96px;
+        text-align: center;
         color: rgba(5, 0, 56, 1);
     }
     
@@ -1492,11 +1493,11 @@ justify-content: space-evenly;
     .txt2 h2{
         width: 1080px;
         height: 168px;
-        font-size: 88px;
+        font-size: 78px;
         font-weight: 700;
         line-height: 96px;
         color: rgba(5, 0, 56, 1);
-        text-align: right;
+        text-align: center;
         letter-spacing: -1px;
     }
     
@@ -1523,7 +1524,7 @@ justify-content: space-evenly;
     .built h2{
         width: 1080px;
         height: 180px;
-        font-size: 96px;
+        font-size: 78px;
         font-weight: 700;
         line-height: 96px;
         color: rgba(5, 0, 56, 1);
@@ -1690,7 +1691,7 @@ justify-content: space-evenly;
     .first h2{
         width: 1280px;
         height: 230px;
-        font-size: 98px;
+        font-size: 78px;
         font-weight: 700;
         line-height: 106px;
         letter-spacing: -1px;
@@ -1772,7 +1773,7 @@ justify-content: space-evenly;
     }
     
     .i h2, .j h2, .k h2, .l h2, .m h2, .n h2{
-        font-size: 102px;
+        font-size: 78px;
         text-align: center;
     }
     
@@ -1822,7 +1823,7 @@ justify-content: space-evenly;
         position: absolute;
         left: 53px;
         font-weight: 700;
-        font-size: 88px;
+        font-size: 78px;
         line-height: 96px;
         letter-spacing: -1px;
         text-align: center;
@@ -1879,8 +1880,8 @@ justify-content: space-evenly;
     }
     
     .obox img{
-        width: 587.9375px;
-        height: 161.70089340209961px;
+        width: 487.9375px;
+        height: 101.70089340209961px;
     }
     
     .f{
@@ -1906,7 +1907,7 @@ justify-content: space-evenly;
         width: 1080px;
         height: 798px;
         position: absolute;
-        top: 12900px;
+        top: 12700px;
         left: 195px;
         padding-top: 120px;
         padding-right: 20px;
@@ -2010,7 +2011,7 @@ justify-content: space-evenly;
     footer{
     width: 1440px;
     height: 483px;
-    top: 13891px;
+    top: 13691px;
     background: rgba(5, 0, 56, 1);
     position: absolute;
     }
