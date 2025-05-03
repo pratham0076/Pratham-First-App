@@ -125,7 +125,7 @@ input::placeholder{
     font-size: 16px;
     font-weight: 400;
     font-family: 'Poppins', sans-serif;
-    padding-left: 2u0px;
+    padding-left: 20px;
 }
 
 .form button{
